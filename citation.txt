@@ -1,0 +1,7 @@
+@inproceedings{REPO141,
+    author = "Zheng, Yu and Zhan, Jiahui and He, Shengfeng and Dong, Junyu and Du, Yong",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "5785--5794",
+    title = "{Curricular Contrastive Regularization for Physics-Aware Single Image Dehazing}",
+    year = "2023"
+}
